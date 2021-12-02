@@ -1,0 +1,42 @@
+.eachList {
+  background-color: #ececec;
+  min-height: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width:90%
+}
+.local{
+    padding-right: 40px;
+}
+.domain1{
+     margin-left: 20px;
+}
+.domain{
+    margin-left: 20px;
+    color: #64748b;
+}
+
+.centerItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-items: center;
+  width: 90%;
+  margin-left: 20px;
+}
+.item {
+  background-color: #ececec;
+  display: flex;
+  padding: 4px;
+}
+.white {
+  background-color: #ececec;
+  height: 20%;
+  display: flex;
+  flex-direction: row;
+  padding-left: 30px;
+  padding: 10px;
+ 
+}
